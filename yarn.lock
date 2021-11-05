@@ -5514,10 +5514,10 @@ timers-browserify@2.0.12:
   dependencies:
     setimmediate "^1.0.4"
 
-tippy.js@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.npmjs.org/tippy.js/-/tippy.js-6.3.2.tgz"
-  integrity sha512-35XVQI7Zl/jHZ51+8eHu/vVRXBjWYGobPm5G9FxOchj4r5dWhghKGS0nm0ARUKZTF96V7pPn7EbXS191NTwldw==
+tippy.js@^6.3.4:
+  version "6.3.4"
+  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-6.3.4.tgz#e5de7067db148824fe370578722cc56c7ae7ee9f"
+  integrity sha512-ZXkQeJQTgDXOt3x6DehdqhpbFDG6b784t7LH0ugMpQSrnbOPi+MGkYQdrd13kzp1jwUPzdCT/95Ce5kw2PPAUQ==
   dependencies:
     "@popperjs/core" "^2.9.0"
 
